@@ -1,4 +1,5 @@
-Hey, I’m Anisha! Here's the latest scoop on me:
+# Hey, I’m Anisha! 
+Here's the latest scoop on me:
 
 🌃 CS Undergrad Student @ UofT
 ⚡ Passionate about working with people and technology
