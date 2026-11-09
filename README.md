@@ -1,10 +1,6 @@
 # Hey, I’m Anisha! 
-Here's the latest scoop on me:
 
-🌃 CS Undergrad Student @ UofT
-⚡ Passionate about working with people and technology
-🥵 Admirer of those who hustle
-💻 Currently pursuing opportunities to learn and innovate with software
+Learn it all | SWE @ Microsoft
 
 <!---
 anishalatchman/anishalatchman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
